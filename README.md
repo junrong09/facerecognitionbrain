@@ -7,7 +7,7 @@ The face detection web application serves as a personal project to pick up web t
 - [QuickStart](#quick-start)
 
 ## Technical Architecture
-<img src="https://github.com/junrong09/sales-tracker/blob/master/docs/imgs/architecture.jpg" alt="architecture" width="200"/>
+<img src="https://github.com/junrong09/facerecognition/blob/master/docs/imgs/architecture.jpg" alt="architecture" width="200"/>
 
 * The database serves as a persistent storage for account management (account creation and sign-in validation)
 
